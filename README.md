@@ -2,7 +2,7 @@
 
 # Hello Microverse
 
-> One paragraph statement about the project.
+> Set up the project, the goal here is to master all of the tools and best practices about Linter and Gitflow.
 
 ![screenshot](./app_screenshot.png)
 
